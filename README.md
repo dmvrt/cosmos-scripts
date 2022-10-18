@@ -1,1 +1,1 @@
-# cosmos-scripts
+Diffirient scipts for cosmos-based chains 
