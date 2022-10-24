@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 RED="\033[31m"
 YELLOW="\033[33m"
@@ -7,15 +7,15 @@ MAGENTA="\033[35m"
 NORMAL="\033[0m"
 
 echo ""
-echo -e "$YELLOW░░$NORMAL$MAGENTA┌┐$NORMAL$YELLOW░░░░░░░░$NORMAL$MAGENTA┌┐$NORMAL$YELLOW░░░░>
-echo -e "$YELLOW░░$NORMAL$MAGENTA││$NORMAL$YELLOW░░░░░░░$NORMAL$MAGENTA┌┘└┐$NORMAL$YELLOW░░░>
+echo -e "$YELLOW░░$NORMAL$MAGENTA┌┐$NORMAL$YELLOW░░░░░░░░$NORMAL$MAGENTA┌┐$NORMAL$YELLOW░░░░░░░░░░░░░░$NORMAL$MAGENTA┌┐$NORMAL$YELLOW░░░░$NORMAL"
+echo -e "$YELLOW░░$NORMAL$MAGENTA││$NORMAL$YELLOW░░░░░░░$NORMAL$MAGENTA┌┘└┐$NORMAL$YELLOW░░░░░░░░░░░░$NORMAL$MAGENTA┌┘└┐$NORMAL$YELLOW░░░$NORMAL"
 echo -e "$MAGENTA┌─┘├┐┌┬┐┌┬─┼┐┌┘┌──┬──┬─┬┬──┼┐┌┼──┐$NORMAL"
 echo -e "$MAGENTA│┌┐│└┘│└┘│┌┘││$MAGENTA$YELLOW░$NORMAL$MAGENTA│──┤┌─┤┌┼┤┌┐││││──┤$NORMAL"
 echo -e "$MAGENTA│└┘│││├┐┌┤│$MAGENTA$YELLOW░$NORMAL$MAGENTA│└┐├──│└─┤│││└┘││└┼──│$NORMAL"
 echo -e "$MAGENTA└──┴┴┴┘└┘└┘$MAGENTA$YELLOW░$NORMAL$MAGENTA└─┘└──┴──┴┘└┤┌─┘└─┴──┘$NORMAL"
 echo -e "$YELLOW░░░░░░░░░░░░░░░░░░░░░░░░$NORMAL$MAGENTA││$NORMAL$YELLOW░░░░░░░░$NORMAL"
 echo -e "$YELLOW░░░░░░░░░░░░░░░░░░░░░░░░$NORMAL$MAGENTA└┘$NORMAL$YELLOW░░░░░░░░$NORMAL"
-echo -e "$YELLOW░░░░https://twitter.com/dmvrt5$NORMAL$YELLOW░░░░$NORMAL"
+echo -e "$YELLOW░░░░$NORMALhttps://twitter.com/dmvrt5$NORMAL$YELLOW░░░░░░░░░$NORMAL"
 echo ""
 
 sleep 1
