@@ -15,7 +15,7 @@ echo -e "$MAGENTA│└┘│││├┐┌┤│$MAGENTA$YELLOW░$NORMAL$MAGE
 echo -e "$MAGENTA└──┴┴┴┘└┘└┘$MAGENTA$YELLOW░$NORMAL$MAGENTA└─┘└──┴──┴┘└┤┌─┘└─┴──┘$NORMAL"
 echo -e "$YELLOW░░░░░░░░░░░░░░░░░░░░░░░░$NORMAL$MAGENTA││$NORMAL$YELLOW░░░░░░░░$NORMAL"
 echo -e "$YELLOW░░░░░░░░░░░░░░░░░░░░░░░░$NORMAL$MAGENTA└┘$NORMAL$YELLOW░░░░░░░░$NORMAL"
-echo -e "$YELLOW░░░░$NORMALhttps://twitter.com/dmvrt5$NORMAL$YELLOW░░░░░░░░░$NORMAL"
+echo -e "$YELLOW░░░░$NORMAL\https://twitter.com/dmvrt5$NORMAL$YELLOW░░░░░░░░░$NORMAL"
 echo ""
 
 sleep 1
